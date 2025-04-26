@@ -49,6 +49,3 @@ You will find notebooks such as:
 ## 📄 License
 
 This repository's content is shared under the Apache-2.0 License. See the `LICENSE` file for details.
-
-```markdown
-[Content of your Apache-2.0 LICENSE file goes here]
